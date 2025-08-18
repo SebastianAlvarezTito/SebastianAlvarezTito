@@ -20,11 +20,10 @@ Soy un estudiante de **Análisis de Sistemas Empresariales** en mi segundo ciclo
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SebastianAlvarezTito&theme=blueberry)](https://git.io/streak-stats)
+
 
 ### 📈 GitHub Stats
-
-_El video muestra cómo añadir estadísticas dinámicas. Para lograrlo, puedes usar el repositorio_ `github-readme-stats`. _Simplemente sustituye el nombre de usuario en el enlace por el tuyo._
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SebastianAlvarezTito&theme=blueberry)](https://git.io/streak-stats)
 
 
 
