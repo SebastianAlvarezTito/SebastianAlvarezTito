@@ -1,36 +1,100 @@
-# 🚀 Preguntas Angular
+# ¡Hola, soy Sebastian Alvarez! 👋
 
-¡Bienvenido! Este repositorio contiene las preguntas sobre el ecosistema de **Angular**.
+
+
+Soy un estudiante de **Análisis de Sistemas Empresariales** en mi segundo ciclo. Me apasiona el desarrollo de software y la tecnología aplicada a la gestión de negocios. 🚀
+
+
+
+---
+
+
+
+## 🛠️ Habilidades Técnicas
+
+
+
+Aquí están algunas de las tecnologías y conceptos con los que trabajo:
+
+
+
 <p>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular Badge">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript Badge">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge">
+
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
+
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge">
+
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge">
+
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
+
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
+
 </p>
 
----
 
-## 🧐 ¿Qué es Angular?
-Angular es un framework de desarrollo diseñado para crear aplicaciones web modernas, robustas y de una sola página (SPA) utilizando **TypeScript** y **HTML**.
-
-## 🛠️ Requisitos e Instalación
-Para poner en marcha este proyecto, asegúrate de tener instaladas las siguientes herramientas en tu entorno:
-
-* **Node.js**: Entorno de ejecución para JavaScript.
-* **npm**: Gestor de paquetes (incluido con Node).
-* **Angular CLI**: Herramienta de línea de comandos para gestionar el proyecto.
-
-> [!TIP]
-> Puedes instalar el CLI globalmente con el comando:  
-> `npm install -g @angular/cli`
 
 ---
 
-## 💻 Versiones del Entorno
-He utilizado las versiones más recientes para asegurar un rendimiento óptimo:
 
-| Herramienta | Versión |
-| :--- | :--- |
-| **Angular CLI** | `21.2.0` |
-| **Node.js** | `22.19.0` |
-| **Package Manager** | `npm 11.3.0` |
+
+## 📌 Proyectos Destacados
+
+
+
+### Creando tu mundo orientado a objetos
+
+
+
+¡Este es un proyecto del curso! Aquí estoy aplicando los principios de la programación orientada a objetos para construir un sistema interactivo.
+
+
+
+🔗 **[Ver Repositorio](https://github.com/SebastianAlvarezTito/Creando-tu-mundo-orientado-a-objetos)**
+
+
+
+---
+
+
+
+## 📈 Mi Actividad y Estadísticas de GitHub
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SebastianAlvarezTito&theme=blueberry)](https://git.io/streak-stats)
+
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianAlvarezTito&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+---
+
+
+
+## ✉️ Contáctame
+
+
+
+*Puedes contactarme a través de los siguientes enlaces:*
+
+
+
+<p>
+
+  <a href="https://www.linkedin.com/in/sebastian-alejandro-alvarez-tito-76533435a/">
+
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+
+  </a>
+
+  <a href="mailto:sebastian.alvarez@vallegrande.edu.pe">
+
+    <img src="https://img.shields.io/badge/-Correo-D14836?style=flat&logo=gmail&logoColor=white" alt="Correo Badge">
+
+  </a>
+
+</p>
+
