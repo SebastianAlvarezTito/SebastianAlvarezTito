@@ -1,7 +1,6 @@
-# 🚀 Mi Primer Proyecto con Angular
+# 🚀 Preguntas Angular
 
-¡Bienvenido! Este repositorio contiene una aplicación moderna construida con el ecosistema de **Angular**. Es un espacio donde aplico conceptos de desarrollo frontend para crear interfaces dinámicas.
-
+¡Bienvenido! Este repositorio contiene las preguntas sobre el ecosistema de **Angular**.
 <p>
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular Badge">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript Badge">
@@ -32,6 +31,6 @@ He utilizado las versiones más recientes para asegurar un rendimiento óptimo:
 
 | Herramienta | Versión |
 | :--- | :--- |
-| **Angular CLI** | `19.2.11` |
-| **Node.js** | `22.14.0` |
-| **Package Manager** | `npm 10.9.2` |
+| **Angular CLI** | `21.2.0` |
+| **Node.js** | `22.19.0` |
+| **Package Manager** | `npm 11.3.0` |
